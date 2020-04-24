@@ -22,4 +22,11 @@ https://github.com/micropython-IMU/micropython-fusion/
 ## License
 See LICENSE
 
+## References
+https://www.virteuproject.eu/servicepackage/ethical-approach/
+
+https://dl.acm.org/doi/abs/10.1145/2818048.2819992
+
+https://dl.acm.org/doi/abs/10.1145/3217804.3217911
+
 
