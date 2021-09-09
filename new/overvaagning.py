@@ -3,7 +3,6 @@ from m5stack import M5Led
 import time
 import imu #bibliotek til at bruge beværgelsessensoren
 import fusion #en oversætter til de rå sensordata
-import funktioner #nogle funktioner vi skal bruge
 from m5stack import btnA
 from m5stack import btnB
 from flowlib import hat
