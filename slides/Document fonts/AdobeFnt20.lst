@@ -1,0 +1,130 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/maja/Desktop/filer til martin/slidesRoleReversalFolder/Document fonts/AdobeFnt20.lst
+FileLength:2814
+FileModTime:656844182
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Candara
+FamilyName:Candara
+StyleName:Regular
+MenuName:Candara
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Candara
+WritingScript:Roman
+OutlineFileName:/Users/maja/Desktop/filer til martin/slidesRoleReversalFolder/Document fonts/Candara.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:162584
+FileModTime:221097600
+NameArray:0,Mac,18,Candara
+NameArray:0,Mac,4,Candara
+NameArray:0,Win,1,Candara
+NameArray:0,Win,16,Candara
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Handwriting-Dakota
+FamilyName:Handwriting - Dakota
+StyleName:Regular
+MenuName:Handwriting - Dakota
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Handwriting - Dakota
+WritingScript:Roman
+OutlineFileName:/Users/maja/Desktop/filer til martin/slidesRoleReversalFolder/Document fonts/Handwriting - Dakota
+DataFormat:sfntResource
+ResourceID:10100
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:124932
+FileModTime:172095797
+NameArray:0,Mac,4,Handwriting - Dakota
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Handwriting-Dakota
+OutlineFileName:/Users/maja/Desktop/filer til martin/slidesRoleReversalFolder/Document fonts/Handwriting - Dakota
+ResourceID:15803
+MacStyle:0
+FileLength:124932
+FileModTime:172095797
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Handwriting
+OutlineFileName:/Users/maja/Desktop/filer til martin/slidesRoleReversalFolder/Document fonts/Handwriting - Dakota
+ResourceID:15803
+MacStyle:1
+FileLength:124932
+FileModTime:172095797
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/maja/Desktop/filer til martin/slidesRoleReversalFolder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231312
+FileModTime:542397543
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftSansSerif
+FamilyName:Microsoft Sans Serif
+StyleName:Regular
+MenuName:Microsoft Sans Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft Sans Serif
+WritingScript:Roman
+OutlineFileName:/Users/maja/Desktop/filer til martin/slidesRoleReversalFolder/Document fonts/Microsoft Sans Serif.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:652248
+FileModTime:656844182
+NameArray:0,Mac,4,Microsoft Sans Serif
+NameArray:0,Win,1,Microsoft Sans Serif
+%EndFont
+
